@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Database files
+*.db
+*.sqlite3
+
+# FAISS indexes
+*.faiss
+
+# OS files
+.DS_Store
+Thumbs.db
