@@ -152,13 +152,13 @@ The **router node** sends the question to GPT model with a classification prompt
 
 ## Tech Stack
 
-FastMCP → backend server
-LangGraph → agent orchestration
-LangChain → SQL agent
-OpenAI → LLM + embeddings
-FAISS + BM25 → hybrid search
-SQLite → database
-Streamlit → UI
+- FastMCP → backend server
+- LangGraph → agent orchestration
+- LangChain → SQL agent
+- OpenAI → LLM + embeddings
+- FAISS + BM25 → hybrid search
+- SQLite → database
+- Streamlit → UI
 
 
 ## Environment Variables
